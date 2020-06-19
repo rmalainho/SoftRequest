@@ -1,0 +1,40 @@
+C:\Users\ruipe\source\repos\SoftRequest\bin\Debug\SoftRequest.exe.config
+C:\Users\ruipe\source\repos\SoftRequest\bin\Debug\SoftRequest.exe
+C:\Users\ruipe\source\repos\SoftRequest\bin\Debug\SoftRequest.pdb
+C:\Users\ruipe\source\repos\SoftRequest\obj\Debug\SoftRequest.csprojAssemblyReference.cache
+C:\Users\ruipe\source\repos\SoftRequest\obj\Debug\SoftRequest.Form1.resources
+C:\Users\ruipe\source\repos\SoftRequest\obj\Debug\SoftRequest.Properties.Resources.resources
+C:\Users\ruipe\source\repos\SoftRequest\obj\Debug\SoftRequest.csproj.GenerateResource.cache
+C:\Users\ruipe\source\repos\SoftRequest\obj\Debug\SoftRequest.csproj.CoreCompileInputs.cache
+C:\Users\ruipe\source\repos\SoftRequest\obj\Debug\SoftRequest.exe
+C:\Users\ruipe\source\repos\SoftRequest\obj\Debug\SoftRequest.pdb
+C:\Users\ruipe\source\repos\SoftRequest\obj\Debug\SoftRequest.Form2.resources
+C:\Users\ruipe\source\repos\SoftRequest\obj\Debug\SoftRequest.Form3.resources
+C:\Users\ruipe\source\repos\SoftRequest\obj\Debug\SoftRequest.Form4.resources
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\bin\Debug\SoftRequest.exe.config
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\bin\Debug\SoftRequest.exe
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\bin\Debug\SoftRequest.pdb
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.csprojAssemblyReference.cache
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.Form1.resources
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.Form2.resources
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.Form3.resources
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.Form4.resources
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.Properties.Resources.resources
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.csproj.GenerateResource.cache
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.csproj.CoreCompileInputs.cache
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.exe
+D:\COISASGUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.pdb
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\bin\Debug\SoftRequest.exe.config
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\bin\Debug\SoftRequest.exe
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\bin\Debug\SoftRequest.pdb
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.csprojAssemblyReference.cache
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.Form1.resources
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.Form2.resources
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.Form3.resources
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.Form4.resources
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.Form5.resources
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.Properties.Resources.resources
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.csproj.GenerateResource.cache
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.csproj.CoreCompileInputs.cache
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.exe
+D:\COISAS GUARDADAS\Trabalhos\VisualStudio2019\SoftRequest\obj\Debug\SoftRequest.pdb
